@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Activity2">
+
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="27dp" />
+
+
+    <RadioGroup
+        android:layout_width="match_parent"
+        android:layout_height="210dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="130dp"
+            android:gravity="center"
+            android:text="@string/compteurFruitText"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <RadioButton
+            android:id="@+id/radioPomme"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:checked="true"
+            android:text="@string/pomme_s" />
+
+        <RadioButton
+            android:id="@+id/radioPoire"
+            android:layout_width="116dp"
+            android:layout_height="wrap_content"
+            android:checked="false"
+            android:text="@string/poire_s" />
+    </RadioGroup>
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="33dp" />
+
+    <Button
+        android:id="@+id/btnCompter"
+        android:layout_width="159dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/compter" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="61dp"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:text="Pomme(s)="
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/nombrePomme"
+        android:layout_width="match_parent"
+        android:layout_height="47dp"
+        android:gravity="center"
+        android:text="0"
+        android:textStyle="bold" />
+
+    <TextView
+
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:gravity="center"
+        android:text="Poire(s)="
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/nombrePoire"
+        android:layout_width="match_parent"
+        android:layout_height="49dp"
+        android:gravity="center"
+        android:text="0"
+        android:textStyle="bold" />
+
+
+</LinearLayout>
+

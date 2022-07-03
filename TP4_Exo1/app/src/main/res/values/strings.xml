@@ -1,0 +1,13 @@
+
+<resources>
+<string name="app_name">TP4_Exo1</string>
+<string name="btn_Compter">Comptage de fruits</string>
+<string name="bienvenue_sur_notre_application_de_comptage_de_fruits">Bienvenue sur notre application de comptage de fruits</string>
+<string name="veuillez_cliquez_sur_le_bouton_suivant_pour_lancer_le_service">Veuillez cliquez sur le bouton suivant pour lancer le service :</string>
+<string name="copyright">Copyright N.H.Youcefi And N.Daoudi</string>
+<string name="compteurFruitText">compteur Fruit</string>
+<string name="pomme_s">Pomme(s)</string>
+<string name="compter">compter</string>
+<string name="poire_s">Poire(s)</string>
+</resources>
+

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TP3EXO3</string>
+    <string name="reglage_de_l_heure">REGLAGE DE L\'HEURE</string>
+    <string name="heure_s_lectionn_e">Heure sélectionnée:</string>
+</resources>

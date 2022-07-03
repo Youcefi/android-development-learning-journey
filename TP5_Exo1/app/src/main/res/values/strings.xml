@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EXO1</string>
+    <string name="Previous" />
+    <string name="Next" />
+    <string name="pr_c_dant">Précédant</string>
+    <string name="suivant">Suivant</string>
+    <string name="copyright_daoudi_nadia_et_youcefi_nour_el_houda">Copyright: Daoudi Nadia et Youcefi Nour El Houda</string>
+    <string name="copyright_n_daoudi_and_n_h_youcefi">Copyright N.Daoudi and N.H.Youcefi</string>
+</resources>

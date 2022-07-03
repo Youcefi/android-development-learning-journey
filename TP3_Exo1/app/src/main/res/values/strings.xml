@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TP3EXO1</string>
+    <string name="sauvegarder">SAUVEGARDER</string>
+    <string name="ouvrir">OUVRIR</string>
+    <string name="androidimage">androidImage</string>
+    <string name="entrez_votre_nom">Entrez votre nom</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="autosave">Autosave</string>
+    <string name="option_1">Option 1</string>
+    <string name="option_2">Option 2</string>
+    <string name="AndroidImage">TODO</string>
+    <string name="togglebutton">ToggleButton</string>
+</resources>

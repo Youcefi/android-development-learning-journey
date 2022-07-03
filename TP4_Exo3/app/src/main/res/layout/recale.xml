@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+
+android:layout_margin="10dp"
+android:orientation="vertical"
+tools:context=".recale">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="157dp"
+        android:gravity="center"
+        android:text="Dommage…..Vous êtes recalé"
+        android:textColor="#ff0000"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="20dp"
+    android:gravity="center"
+    android:text="Votre moyenne est:"
+    android:textSize="24sp"
+    android:textStyle="bold" />
+
+<TextView
+    android:id="@+id/moyenneRecale"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="10dp"
+    android:gravity="center"
+    android:text="Moyenne"
+    android:textSize="24sp"
+    android:textStyle="bold" />
+
+
+</LinearLayout>
